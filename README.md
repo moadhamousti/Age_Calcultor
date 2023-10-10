@@ -1,4 +1,4 @@
 # Age-Calculator 📲  🧮 :
 
 
-<img width="945" alt="Calculator" src="https://github.com/moadhamousti/Age-Calculator/assets/118165767/6ea77c04-bba1-43aa-b44c-d8d296e8f460">
+![Calc](https://github.com/moadhamousti/Age_Calcultor/assets/118165767/054b80c0-e1f4-4e77-8fbb-55c7eb480ae3)
