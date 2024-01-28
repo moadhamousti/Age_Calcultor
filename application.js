@@ -6,7 +6,7 @@ const dayOutput = document.getElementById("DD");
 const monthOutput = document.getElementById("MM");
 const yearOutput = document.getElementById("YY");
 
- 
+
 
 form.addEventListener("submit", function(event) {
     event.preventDefault();
