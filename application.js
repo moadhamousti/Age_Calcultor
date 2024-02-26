@@ -8,6 +8,7 @@ const yearOutput = document.getElementById("YY");
 
 
 
+
 form.addEventListener("submit", function(event) {
     event.preventDefault();
 
